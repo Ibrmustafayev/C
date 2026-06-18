@@ -27,6 +27,12 @@ A console-based student grade tracker. Add students, sort by average, and find t
 ### 📖 [Library Manager](Library.c)
 A console-based library system. Add books, search by title, sort by rating or year, and find the top-rated book.
 
+### 📖 [Basic Bank System](BasicBankSystem.c)
+A console-based basic bank system. Create an account, deposit or withdraw money, and find balance or transaction history.
+
+### 📖 [Self-Referencing Structs / Linked List](LinkedList.c)
+The fundamentals of a singly linked list in C.
+
 ### 🃏 [Card Dealer](CardDealer.c)
 A console-based card dealer. Builds a full 52-card deck, shuffles it, deals a hand, and calculates its total value.
 
@@ -53,9 +59,12 @@ output.exe
 
 ```
 C_beginner/
-├── MiniStudentDB.c  # Student grade management system
-├── Library.c        # Library management system
-├── CardDealer.c     # Basic card dealer system
+├── MiniStudentDB.c    # Student grade management system
+├── Library.c          # Library management system
+├── CardDealer.c       # Basic card dealer system
+├── BasicBankSystem.c  # Basic bank system
+├── LinkedList.c       # Self-Referencing Structs
+├── LICENSE
 └── README.md
 ```
 
