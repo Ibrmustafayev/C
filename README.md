@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 *A personal collection of C programs built while learning the language from scratch.*
