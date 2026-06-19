@@ -167,7 +167,6 @@ void printList(Node *head) {
 
 void freeList(Node *head) {
     if (head == NULL) {
-        printf("\nNo linked list!");
         return;
     }
     Node *current = head;
