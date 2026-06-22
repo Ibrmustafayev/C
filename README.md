@@ -55,21 +55,6 @@ output.exe
 
 ---
 
-## 📁 Structure
-
-```
-C_beginner/
-├── MiniStudentDB.c    # Student grade management system
-├── Library.c          # Library management system
-├── CardDealer.c       # Basic card dealer system
-├── BasicBankSystem.c  # Basic bank system
-├── LinkedList.c       # Self-Referencing Structs
-├── LICENSE
-└── README.md
-```
-
----
-
 ## 📜 License
 
 Released under the [MIT License](LICENSE). Free to use for learning purposes.
