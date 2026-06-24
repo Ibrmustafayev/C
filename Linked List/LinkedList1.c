@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -71,4 +70,3 @@ void freeList(Node *head) {
         free(temp);
     }
 }
-```
